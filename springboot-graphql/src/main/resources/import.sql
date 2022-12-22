@@ -1,0 +1,4 @@
+INSERT INTO TODO(ID, TITLE, CONTENT, ISCHECK) VALUES ('1', '어제부터시작', '금연일지', 'N');
+INSERT INTO TODO(ID, TITLE, CONTENT, ISCHECK) VALUES ('2', '오늘부터시작', '금연일지', 'N');
+INSERT INTO TODO(ID, TITLE, CONTENT, ISCHECK) VALUES ('3', '내일부터시작', '금연일지', 'N');
+INSERT INTO TODO(ID, TITLE, CONTENT, ISCHECK) VALUES ('4', '내년부터시작', '금연일지', 'N');
