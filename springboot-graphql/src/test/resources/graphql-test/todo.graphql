@@ -1,0 +1,9 @@
+# todo.graphql
+query ($id: ID){
+    todo(id: $id) {
+        id
+        title
+        content
+        isCheck
+    }
+}

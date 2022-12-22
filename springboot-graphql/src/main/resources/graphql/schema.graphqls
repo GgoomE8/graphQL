@@ -7,4 +7,5 @@ type Todo {
     id: ID
     title: String
     content: String
+    isCheck: String
 }

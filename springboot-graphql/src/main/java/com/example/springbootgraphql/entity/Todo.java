@@ -1,5 +1,6 @@
 package com.example.springbootgraphql.entity;
 
+import com.example.springbootgraphql.dto.TodoResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -19,5 +20,6 @@ public class Todo {
     private Long id;
     private String title;
     private String content;
-    private String isCheck;
+    private boolean isCheck;
+
 }
